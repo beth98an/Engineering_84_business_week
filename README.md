@@ -5,6 +5,10 @@ Hello, my name is Bethan and I am a mathematics graduate from the university of 
 
 ### Question 2: What is Agile and the benefit of implementing it?
 
+Agile is an iterative approach to project management and software development that helps teams to deliver value to their customers faster and with fewer headaches.
+Some Benefits of using Agile in the workplace are:
+- flexible to change - if problems or new information comes to light the process can be adapted to include the new information or fix the issue that has occured.
+
 ### Question 3: What is SCRUM and the benefit of implementing it?
 
 ### Question 4: Why did you chose Sparta Global?
