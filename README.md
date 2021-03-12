@@ -16,7 +16,14 @@ SCRUM is an example of Agile methodology. It is a framework that helps teams and
 - cost savings due to increased performance.
 - quicker response to market demand.
 
-### Question 4: Why did you chose Sparta Global?
+### Question 4: What is DevOps and the benefit of implementing it?
 
-### Question 5: Where do you see yourself in 2-5 years?
+DevOps is a set of practices that combine software development and IT operations which aim to shorten the systems development life cycle and participates in the entire life cycle of a project from design to development, and production support. Benefits of using DevOps are:
+- minimises conflicts between teams and ensures a unified appproach to a project.
+- improved time to market - quicker to get software products to market and produce new products, updates and software.
+- more responsive to business needs and market demands.
+
+### Question 5: Why did you chose Sparta Global?
+
+### Question 6: Where do you see yourself in 2-5 years?
 
