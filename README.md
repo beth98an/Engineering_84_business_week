@@ -11,6 +11,11 @@ Some Benefits of using Agile in the workplace are:
 
 ### Question 3: What is SCRUM and the benefit of implementing it?
 
+SCRUM is an example of Agile methodology. It is a framework that helps teams and organisations to generate values through adaptive solutions for complex problems.Benefits of implementing it in the workplace are:
+- high visibility on tasks so all team members can keep on track.
+- cost savings due to increased performance.
+- quicker response to market demand.
+
 ### Question 4: Why did you chose Sparta Global?
 
 ### Question 5: Where do you see yourself in 2-5 years?
