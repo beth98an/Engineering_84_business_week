@@ -25,5 +25,8 @@ DevOps is a set of practices that combine software development and IT operations
 
 ### Question 5: Why did you chose Sparta Global?
 
+They had the opportunity to use and improve my programming skills and they are part of the industry that I want a career in. Also I liked the fact that they are a fast growing company and they work with large well known companies that I had heard of.
+
 ### Question 6: Where do you see yourself in 2-5 years?
 
+To have graduated from the training program and be working as a Junior DevOps Consultant and to be continuously learning and developing my skills.
