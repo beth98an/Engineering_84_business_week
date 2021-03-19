@@ -11,7 +11,7 @@ Some Benefits of using Agile in the workplace are:
 
 ### Question 3: What is SCRUM and the benefit of implementing it?
 
-SCRUM is an example of Agile methodology. It is a framework that helps teams and organisations to generate values through adaptive solutions for complex problems.Benefits of implementing it in the workplace are:
+SCRUM is an example of Agile methodology. It is a framework that helps teams and organisations to generate values through adaptive solutions for complex problems. Benefits of implementing it in the workplace are:
 - high visibility on tasks so all team members can keep on track.
 - cost savings due to increased performance.
 - quicker response to market demand.
@@ -84,6 +84,7 @@ Commit, rollback, savepoint
 ### Question 4: What is Normalisation and normal form?
 
 Normalisation – database design technique which organises tables in a manner that reduces redundancy and dependency of data. There are six forms but only have been taught the first three.
+
 1st Normal Form 
 Make everything atomic (as small as possible)
 There should be no repeating groups
