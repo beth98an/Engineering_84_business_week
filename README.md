@@ -105,3 +105,11 @@ A table of Book IDs, Genre Id and genre type is not in 3rd Normal form due to ge
 
 ### Question 5: Entity relationship diagram?
 An entity relationship diagram shows the relationships of data sets stored in a database.
+
+### Git and Github
+### Question 1: What is Git?
+Git is a version control system.
+
+### Question 2: What is Github?
+Github is an online repository saved on a cloud.
+
