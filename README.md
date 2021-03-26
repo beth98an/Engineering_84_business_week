@@ -106,10 +106,50 @@ A table of Book IDs, Genre Id and genre type is not in 3rd Normal form due to ge
 ### Question 5: Entity relationship diagram?
 An entity relationship diagram shows the relationships of data sets stored in a database.
 
-### Git and Github
+### Git and Github Questions
 ### Question 1: What is Git?
 Git is a version control system.
 
 ### Question 2: What is Github?
 Github is an online repository saved on a cloud.
 
+
+### Python and OOP Questions
+### Question 1: What is OOP and why should we use it?
+- Method of structuring a software program into bundles of related attributes and behaviours
+- It is designed to create simple and reusable pieces of code that any programmer or program can use it
+- It makes your code reusable and logical and it makes inheritance easier to implement. It follows the DRY principle which makes programs more efficient.
+
+### Question 2: Benefits and use cases of OOP.
+- It allows you to break down your software into bite-sized problems that can then be solved one object at a time.
+- Having smaller problems to deal with makes it easier for troubleshooting when something goes wrong.
+- Allows an IT team to work on multiple objects of the software at the same.
+-  Can be used to represent real-world objects like cars, animals and people. For example animals have set functions(methods) like eat, sleep and move and set characteristics(attributes) like spine, alive and lungs.
+
+### Question 3: What is an API and Why should we use it?
+- API(Application Programming Interface) is a set of programming instructions and standards for accessing web based software applications.
+- Allows two applications to talk to each other.
+- API runs between applictions, databases and devices to deliver data and create the connectivity that puts the world at our fingertips.
+- Acts as a door or window into a software program, allowing other programs to interact with it without the need for a developer to share its entire code.
+
+### Question 4: Python packages and modules - requests module use case with API.
+- A package is a collection of Python modules.
+- Modules are Python files which contain a set of functions, classes and variables that can be used within other files.
+- requests module can be used to connect to a website and check if the website is live using an API.
+
+### Question 5: What is pip?
+- pip is a package manager in Python that is used to install packages.
+
+### Question 6: What are the four pillars of OOP and why should we use them? Benefits and use cases of the OOP pillars.
+##### Inheritance
+- Inheritance is a way of creating a new class for using details of a class without modifying it. The existing class is known as the parent class, and the derived class is known as the child class.
+- 
+##### Abstraction
+- Abstraction is the method of hiding some information from the user that the user does not require in order to run the program.
+- Use case: you can drive a car without knowing how and why it works.
+##### Encapsulation
+- Encapsulation prevents data from direct modification by restricting access to methods and variables.Private attributes are denoted by an underscore either single or double.
+- Benefit: It allows us to control the way in which the internal data of our object is going to be altered.
+##### Polymorphism
+- Polymorphism is an ability to use a common interface for multiple data types.You can inherit from the parent class as well as override the data
+-
