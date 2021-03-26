@@ -143,13 +143,20 @@ Github is an online repository saved on a cloud.
 ### Question 6: What are the four pillars of OOP and why should we use them? Benefits and use cases of the OOP pillars.
 ##### Inheritance
 - Inheritance is a way of creating a new class for using details of a class without modifying it. The existing class is known as the parent class, and the derived class is known as the child class.
-- 
+- Benefit: Code can be reused without repeating yourself
+- Use case: children inherit some of their features from their parents.
+
 ##### Abstraction
 - Abstraction is the method of hiding some information from the user that the user does not require in order to run the program.
+- Benefit: reduces the complexity for the user.
 - Use case: you can drive a car without knowing how and why it works.
+
 ##### Encapsulation
 - Encapsulation prevents data from direct modification by restricting access to methods and variables.Private attributes are denoted by an underscore either single or double.
 - Benefit: It allows us to control the way in which the internal data of our object is going to be altered.
+- Use case: A capsule binds all chemical contents required for curing specific disease together.
+
 ##### Polymorphism
-- Polymorphism is an ability to use a common interface for multiple data types.You can inherit from the parent class as well as override the data
--
+- Polymorphism is an ability to use a common interface for multiple data types. You can inherit from the parent class as well as override the data.
+- Benefit: Creates flexibility, and makes things easier for the end user.
+- Use case: mobile phones can be used for many tasks such as making calls listening to music and taking pictures etc.
