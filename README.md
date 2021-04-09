@@ -170,7 +170,7 @@ DevOps is a set of practices that combine software development and IT operations
 
 
 ### Question 3: Explain the role of a DevOps Engineer/consultant.
-
+DevOps consultant is usually hired to resolve a specific issue or to educate employees to use DevOps tools, and who works according to the principles of DevOps.
 
 ### Question 4: What is cloud computing and why should we use it?
 Cloud computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer.
