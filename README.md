@@ -1,7 +1,7 @@
 # Questions and Answers for interview prep
 ### Question 1: Tell me about yourself.
 
-Hello, my name is Bethan and I am a mathematics graduate from the university of hertfordshire. Currrently I am a trainee junior DevOps consultant with Sparta Global. Whilst at university I discovered my love for technology especially computer programming when I was taught Python as part of one of my modules. Also at university I had the opportunity to do a electronics workshop in which I learnt to design, build and program a small wearable electronic device with LEDs that flashed to the beat of music.
+Hello, my name is Bethan and I am a mathematics graduate from the university of hertfordshire. Whilst at university I discovered my love for technology especially computer programming when I was taught Python as part of one of my modules. Also at university I had the opportunity to do a electronics workshop in which I learnt to design, build and program a small wearable electronic device with LEDs that flashed to the beat of music. For two years at university I was a Student Ambassador which enablede me to grow in confidence and improve my communication skills. Currrently I am a trainee junior DevOps consultant with Sparta Global. In my spare time I enjoy playing the piano and playing video games.
 
 ### Question 2: What is Agile and the benefit of implementing it?
 
@@ -20,7 +20,7 @@ SCRUM is an example of Agile methodology. It is a framework that helps teams and
 
 DevOps is a set of practices that combine software development and IT operations which aim to shorten the systems development life cycle and participates in the entire life cycle of a project from design to development, and production support. Benefits of using DevOps are:
 - minimises conflicts between teams and ensures a unified appproach to a project.
-- improved time to market - quicker to get software products to market and produce new products, updates and software.
+- improved time to market: quicker to get software products to market and produce new products, updates and software.
 - more responsive to business needs and market demands.
 
 ### Question 5: Why did you chose Sparta Global?
@@ -45,41 +45,40 @@ LEFT JOIN (LEFT OUTER JOIN) – creates a table with all the rows from the left 
 
 RIGHT JOIN (RIGHT OUTER JOIN) – creates a table with all the row from the right table and any non-matched row will contain NULL in place of the left table data.
 
-
 FULL JOIN – creates a table with all the rows from both right and left tables and any non-matching row data will contain NULL in place of the missing data.
 
 
 ### Question 2: What are primary keys and foreign keys and what are their functions?
 
-Primary key 
-Must be unique 
-Must always have ana entry – cannot be null or blank
-The value must never change
-Each table must have a maximum of one primary key
+- Primary key 
+  - Must be unique 
+  - Must always have ana entry – cannot be null or blank
+  - The value must never change
+  - Each table must have a maximum of one primary key
 
-Compound/Composite key
-Type of primary key
-Combines more than one field to make a unique value 
+- Compound/Composite key
+  - Type of primary key
+  - Combines more than one field to make a unique value 
 
-Foreign key
-Doesn’t need to be unique 
-Used to create a solid relationship between tables 
-A table can have any number of foreign keys
+- Foreign key
+  - Doesn’t need to be unique 
+  - Used to create a solid relationship between tables 
+  - A table can have any number of foreign keys
 
 
 ### Question 3: What are DML, DDL, DCL, TCL?
 
-DML- Data Manipulation Language 
-Select, insert, update, alter
+- DML- Data Manipulation Language 
+  - Select, insert, update, alter
 
-DDL- Data Definition Language
-Create, alter, drop, truncate 
+- DDL- Data Definition Language
+  - Create, alter, drop, truncate 
 
-DCL- Data Control Language
-Grant access, revoke access
+- DCL- Data Control Language
+  - Grant access, revoke access
 
-TCL- Transaction control Language
-Commit, rollback, savepoint
+- TCL- Transaction control Language
+  - Commit, rollback, savepoint
 
 ### Question 4: What is Normalisation and normal form?
 
