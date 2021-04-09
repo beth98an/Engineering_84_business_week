@@ -164,15 +164,31 @@ Github is an online repository saved on a cloud.
 ### DevOps Questions
 ### Question 1: What is DevOps?
 
+DevOps is a set of practices that combine software development and IT operations in an aim to shorten the systems development life cycle and participate in the entire life cycle of a project from design to development and production support.
 
 ### Question 2: Why do you want become a DevOps Engineer/Consultant?
 
 
-### Question 3: Explain the role of a DevOps Eng/consultant.
+### Question 3: Explain the role of a DevOps Engineer/consultant.
 
 
 ### Question 4: What is cloud computing and why should we use it?
-
+Cloud computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer.
+- Why should we use it?
+  - Data protection: ability to move sensitive information into and throughout the cloud is essential for businesses to function and collaborate efficiently, quickly and freely - but this ability must be supported by a comprehensive data protection strategy
+  - Scalability and flexibility: information immediately available wherever you are
+  - Access to data anytime, anywhere
+  - Cost efficiencies: powerful cost savings by only paying for what you use
 
 ### Question 5: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this.
+- DRY: Don't repeat yourself
+  - DRY is a principle of software development aimed at reducing repetition of code.
+  - In Python Airport Project used OOP and class structures to implement DRY so did not repeat ourselves.
 
+- OOP: Object Oriented Programming
+  - Method of structuring a software program into bundles of related attributes and behaviours.
+  - In Python Airport Project used class structure layout to implement inheritance a pillar of OOP.
+
+- MVC: Model View Controller
+  - Software design pattern used for developing user interfaces.
+  - In Python Airport Project used Django as MVC to create the app user interface. Flask could also be used.
