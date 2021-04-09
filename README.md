@@ -85,22 +85,22 @@ FULL JOIN – creates a table with all the rows from both right and left tables 
 Normalisation – database design technique which organises tables in a manner that reduces redundancy and dependency of data. There are six forms but only have been taught the first three.
 
 1st Normal Form 
-Make everything atomic (as small as possible)
-There should be no repeating groups
-Example:
-A table of student id student name and courses they take with commas between course names is not in 1st normal form because there are commas which implies multiple groups. To put into 1st normal form, you would need to have multiple rows for students who have multiple courses. You could also split it into two tables one with student id and student name and another with student id and course.
+- Make everything atomic (as small as possible)
+- There should be no repeating groups
+- Example:
+  - A table of student id student name and courses they take with commas between course names is not in 1st normal form because there are commas which implies multiple groups. To put into 1st normal form, you would need to have multiple rows for students who have multiple courses. You could also split it into two tables one with student id and student name and another with student id and course.
 
 2nd Normal Form 
-It is in 1st Normal Form 
-All non- key attributes are fully functionally dependent on the primary key
-Example:
-A table with product id, store id and store location would not be in 2nd normal form because store location only depends on part of the composite key the store id so to put into 2nd normal form you need to split the table into two with product id and store id in one and store id and store location in another. 
+- It is in 1st Normal Form 
+- All non- key attributes are fully functionally dependent on the primary key
+- Example:
+  - A table with product id, store id and store location would not be in 2nd normal form because store location only depends on part of the composite key the store id so to put into 2nd normal form you need to split the table into two with product id and store id in one and store id and store location in another. 
 
 3rd Normal Form 
-It is in 2nd Normal Form
-There is no transitive functional dependency
-Example:
-A table of Book IDs, Genre Id and genre type is not in 3rd Normal form due to genre type being dependent on genre id and genre id is dependent on book id. To make it in 3rd normal form split into two tables one with book id and genre id and another with genre id and genre type.
+- It is in 2nd Normal Form
+- There is no transitive functional dependency
+- Example:
+  - A table of Book IDs, Genre Id and genre type is not in 3rd Normal form due to genre type being dependent on genre id and genre id is dependent on book id. To make it in 3rd normal form split into two tables one with book id and genre id and another with genre id and genre type.
 
 ### Question 5: Entity relationship diagram?
 An entity relationship diagram shows the relationships of data sets stored in a database.
@@ -159,3 +159,20 @@ Github is an online repository saved on a cloud.
 - Polymorphism is an ability to use a common interface for multiple data types. You can inherit from the parent class as well as override the data.
 - Benefit: Creates flexibility, and makes things easier for the end user.
 - Use case: mobile phones can be used for many tasks such as making calls listening to music and taking pictures etc.
+
+
+### DevOps Questions
+### Question 1: What is DevOps?
+
+
+### Question 2: Why do you want become a DevOps Engineer/Consultant?
+
+
+### Question 3: Explain the role of a DevOps Eng/consultant.
+
+
+### Question 4: What is cloud computing and why should we use it?
+
+
+### Question 5: Explain how you implemented DRY -  OOP - MVC - MVT - use STAR to answer this.
+
