@@ -167,7 +167,7 @@ Github is an online repository saved on a cloud.
 DevOps is a set of practices that combine software development and IT operations in an aim to shorten the systems development life cycle and participate in the entire life cycle of a project from design to development and production support.
 
 ### Question 2: Why do you want become a DevOps Engineer/Consultant?
-
+I heard that is was quite a challenging role and I like to challenge myself and put myself outside of my comfort zone in order to grow as a person. Also it enables me to be continuously learning and developing my skills which is something I enjoy. 
 
 ### Question 3: Explain the role of a DevOps Engineer/consultant.
 DevOps consultant is usually hired to resolve a specific issue or to educate employees to use DevOps tools, and who works according to the principles of DevOps.
